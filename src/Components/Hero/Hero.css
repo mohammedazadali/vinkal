@@ -1,13 +1,17 @@
 .hero-section{
     background: #000;
-    padding: 50px 6%;
     width: 100%;
     align-items: center;
     text-align: center;
     color: #fff;
 }
+.hero-content{
+    padding: 50px 6%;
+
+}
 .logo{
-    width: 300px;
+    width: 100%;
+    z-index: -1;
 }
 .sub{
     font-size: 1.5rem;
@@ -44,7 +48,7 @@
 
 @media screen and (max-width:600px) {
     .logo{
-        width: 80%;
+        width: 100%;
     }
     .hero-btn button{
         font-size: 1rem;

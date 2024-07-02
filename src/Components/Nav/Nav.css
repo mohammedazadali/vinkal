@@ -2,7 +2,6 @@ nav{
     background: #000;
     padding: 10px 6%;
     color: #fff;
-    height: 60px;
     position: sticky;
     top: 0;
     display: flex;
@@ -36,7 +35,12 @@ nav{
 .break{
     display: none;
 }
+.navlink{
+    cursor: pointer;
+}
+.navlink:hover{
 
+}
 
 @media screen and (max-width:900px) {
     nav{

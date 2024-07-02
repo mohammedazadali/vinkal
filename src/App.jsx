@@ -6,6 +6,8 @@ import About from './Components/About/About'
 import Services from './Components/Services/Services'
 import Testimonial from './Components/Testimonial/Testimonial'
 import Footer from './Components/Footer/Footer'
+import Whatsapp from './Whatsapp'
+
 
 function App() {
   return (
@@ -16,6 +18,7 @@ function App() {
     <Services/>
     <Testimonial/>
     <Footer/>
+    <Whatsapp/>
     </>
   )
 }

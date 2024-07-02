@@ -18,7 +18,7 @@ function About() {
     ]
   return (
     <>
-    <section className="about-section">
+    <section className="about-section" id='about'>
         <h1 className="title mont">ABOUT US</h1>
         <p className="lora">
         At Vinkal Production, we bring your ideas to life with our expert design services. Whether you need captivating graphics, stunning videos, or engaging content, our team is here to transform your vision into reality.Our mission is to deliver exceptional design solutions that help our clients stand out in a crowded market. We believe in the power of creativity and strive to push the boundaries of design to create unique and impactful experiences.To be the leading media agency recognized for innovation, creativity, and excellence in design. We aim to build lasting relationships with our clients by consistently exceeding their expectations and contributing to their success.Since our inception, Vinkal Production has grown from a small team of designers to a full-service media agency, serving clients across various industries. Our dedication to quality and innovation has  earned us a reputation as a trusted partner for businesses looking to enhance their brand through exceptional design.

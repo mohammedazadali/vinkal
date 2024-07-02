@@ -23,7 +23,7 @@ function Nav() {
                 <Link to='about' spy={true} smooth={true} offset={-50}>About Us</Link>
             </li>
             <li className="navlink mont">
-                <Link to='service' spy={true} smooth={true} offset={-150}>Services</Link>
+                <Link to='service' spy={true} smooth={true} offset={-170}>Services</Link>
             </li>
             <li className="navlink mont">
                 <Link to='test' spy={true} smooth={true} offset={-50}>Testimonial</Link>

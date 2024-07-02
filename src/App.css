@@ -1,7 +1,14 @@
 .what{
     position: fixed;
-    top: 90%;
-    left: 95%;
+    top: 88%;
+    left: 90%;
     z-index: 20;
     width: 50px;
+}
+
+
+@media screen and (max-width:600px) {
+    .what{
+        left: 80%;
+    }
 }

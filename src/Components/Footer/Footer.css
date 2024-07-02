@@ -1,0 +1,16 @@
+footer{
+    background: #000;
+    color: #fff;
+    padding: 50px 6%;
+}
+footer .brick{
+    font-size: 0.8rem;
+    color: #aeaeae;
+    text-align: center;
+    margin-top:10px ;
+}
+footer hr{
+    height: 1px;
+    background: #aeaeae;
+    width: 100%;
+}

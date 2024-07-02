@@ -1,0 +1,38 @@
+.about-section{
+    padding: 50px 6%;
+}
+.about-section p{
+    font-size: 1.2rem;
+    line-height: 1.5;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: justify;
+}
+.why-con{
+    display: flex;
+    align-items: center;
+    width: 80%;
+    margin: 20px auto;
+    gap: 10px;
+}
+.why-con p{
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+
+
+
+
+
+
+@media screen and (max-width:900px) {
+    .why-con{
+        width: 100%;
+    }
+  }
+@media screen and (max-width:600px) {
+    .about-section p{
+        font-size: 1rem;
+    }
+  }

@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400..700;1,400..700&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+*{
+  padding: 0;
+  margin: 0;
+  outline: none;
+  border: none;
+  box-sizing: border-box;
+  text-decoration: none;
+  line-height: 1.5;
+}
+.mont{
+  font-family: "Montserrat", sans-serif;
+}
+.lora{
+  font-family: "Lora", serif;
+}
+.title{
+    text-align: center;
+    font-size: 2rem;
+}
+
+
+
+@media screen and (max-width:900px) {
+  .title{
+    font-size: 1.5rem;
+  }
+}
